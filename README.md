@@ -7,6 +7,8 @@ We use several sources for open data on e.g. temperature:
 Downloaded data can be found here 
 https://drive.google.com/drive/folders/1hGHdgXF5CHkLagCw9YEj-7gCKDCQoFiY?usp=sharing
 
+https://drive.google.com/open?id=11-7B9pBwiM-6E9aLwNMYm1prgyxO4N3h
+
 Main variables are: 
 
     surface_air_temperature 
