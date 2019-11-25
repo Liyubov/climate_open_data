@@ -23,4 +23,9 @@ Main variables are:
 
 # Code for parcing data 
 
-For parcing data one will need to install xarray python package.
+For parcing data one needs to install ´xarray´ python package.
+
+Alternative way of parcing data on climate is to use command line via the command:
+*ncdump -t tasmax_hadukgrid_uk_60km_mon_188601-188612.nc*
+
+
