@@ -26,6 +26,10 @@ Main variables are:
 
     surface_wind_speed
 
+# Licence 
+Data are distributed under Open Government Licence: 
+https://help.ceda.ac.uk/article/235-climate-data-in-ceda-archives
+
 # Code for parcing data 
 
 For parcing data one needs to install ´xarray´ python package.
